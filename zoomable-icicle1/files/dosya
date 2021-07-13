@@ -1,0 +1,115 @@
+{
+  "name": "Programlama Dilleri Kullanım Oranları(Yüzde)",
+  "children": [
+    {
+      "name": "Web Programlama Dilleri",
+      "children": [
+        {
+          "name": "Back-end Dilleri",
+          "children": [
+            {
+              "name": "Java",
+              "value": 75
+            },
+            {
+              "name": "PHP",
+              "value": 50
+            },
+            {
+              "name": "Python",
+              "value": 70
+            },
+           
+            {
+              "name": "C#",
+              "value": 34
+            },
+            {
+              "name": "Ruby",
+              "value": 45
+            }
+          ]
+        },
+        {
+          "name": "Front-end Dilleri",
+          "children": [
+            {
+              "name": "HTML",
+              "value": 90
+            },
+            {
+              "name": "JavaScript",
+              "value": 75
+            },
+            {
+              "name": "CSS",
+              "value": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mobil Programlama Dilleri",
+      "children": [
+        {
+          "name": "iOS Dilleri",
+          
+          "children": [
+            {
+              "name": "Swift",
+              "value": 100
+            },
+            {
+              "name": "Objective-C",
+              "value": 80
+            },
+            {
+              "name": "C#",
+              "value": 60
+            }
+          ]
+        },
+        {
+          "name": "Android Dilleri",
+          
+          "children": [
+            {
+              "name": "Kotlin",
+              "value": 100
+            },
+            {
+              "name": "Java",
+              "value": 80
+            },
+            {
+              "name": "C#",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veri Tabanı Dilleri",
+      "children": [
+        {
+          "name": "SQL",
+          "value": 78
+        },
+        {
+          "name": "SQL/PL",
+          "value": 67
+        },
+        {
+          "name": "Tcl",
+          "value": 46
+        },
+        {
+          "name": "Transact-SQL(T-SQL)",
+          "value": 53
+        }
+      ]
+    }
+  ]
+}
